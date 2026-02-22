@@ -1,23 +1,18 @@
-# My-Projects 
-
 ## Overview
+# Find GitHub Developers Easily
 
-This project is a web application built using HTML, CSS, and JavaScript. It demonstrates DOM manipulation, local storage usage, and dynamic content generation.
+## Description
+A responsive Github dev search dashboard that fetches live data by username, location and repository count. 
 
 ## Features
+- Search by location, username 
+- Displays search buttons and view profiles 
+- Responsive design
 
-* Dynamic content generation
-* Data storage using local storage
-* JSON import/export functionality
-* Interactive user interface
+## Technologies
+- HTML
+- CSS / Tailwind
+- JavaScript / React
 
-## Project Structure
-
-* `index.html` – Main HTML file
-* `styles.css` – Styling for the app
-* `script.js` – JavaScript logic
-* `images` - logos and designs 
-
-## Author
-Godspower Goodluck 
-
+## Deployment
+Live site: https://spider-pulp-71024981.figma.site/
